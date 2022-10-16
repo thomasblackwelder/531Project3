@@ -3,7 +3,7 @@
 This is a web application that provides users an interactive interface to explore different movies. Users can sort movies saved to the database based on their parental rating. 
 
 ## Visual
-<img src=""
+<img src="website.png"/>
 
 ## Setup
 Runningly locally
