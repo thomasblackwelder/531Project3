@@ -7,8 +7,8 @@ This is a web application that provides users an interactive interface to explor
 
 ## Setup
 Runningly locally
-     * git clone https://github.com/smurthw8/moviesgit2.0.git
-     * cd moviesgit2.0
+     *git clone https://github.com/smurthw8/moviesgit2.0.git
+     *cd moviesgit2.0
      * npm install
      * node index.js
      * Navigate to http://localhost:3000 to see the website
