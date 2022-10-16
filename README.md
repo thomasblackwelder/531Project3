@@ -50,7 +50,7 @@ Terraform:
 - Query aws to retrieve the parameters needed for the database username, and password from the parameter store. Retrieve the host through env variables. 
      
 ## Sponser poor college students?
-- [Thomas Blackwelder]()
+- [Thomas Blackwelder](https://venmo.com/code?user_id=1922210247737344876&created=1665893449.9037209&printed=1)
 - [Caleb Siebach](https://venmo.com/code?user_id=2946059366039552553&created=1665890984)
 - [Cole Smith]()
 - [Kirsten Smurthwaite]()
