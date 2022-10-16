@@ -149,9 +149,16 @@ resource "aws_instance" "web-server"{
     network_interface_id = aws_network_interface.web-server-ni.id
   }
 
-  // Todo: Add commands to auto provision the website
   user_data = <<-EOF
               #!/bin/bash
+              sudo yum update
+              curl --silent --location https://rpm.nodesource.com/setup_14.x | sudo bash -
+              sudo yum install -y nodejs
+              sudo yum install git
+              git clone https://github.com/smurthw8/moviesgit2.0.git
+              cd moviesgit2.0
+              npm install
+              node index.js
               EOF
   tags = local.tags
 }
