@@ -52,7 +52,7 @@ Terraform:
 ## Sponser poor college students?
 - [Thomas Blackwelder](https://venmo.com/code?user_id=1922210247737344876&created=1665893449.9037209&printed=1)
 - [Caleb Siebach](https://venmo.com/code?user_id=2946059366039552553&created=1665890984)
-- [Cole Smith]()
+- [Cole Smith](https://venmo.com/code?user_id=1813591086858240869&created=1665893522.538416&printed=1)
 - [Kirsten Smurthwaite]()
 
 ## Acknowledge 
