@@ -53,7 +53,7 @@ Terraform:
 - [Thomas Blackwelder]()
 - [Caleb Siebach](https://venmo.com/code?user_id=2946059366039552553&created=1665890984)
 - [Cole Smith]()
-- [Kirsten Smurthwaite]()
+- [Kirsten Smurthwaite](https://account.venmo.com/u/Kirsten-Smurthwaite)
 
 ## Acknowledge 
 Too many youtube tutorials to count, and our great Professor Kettles, and TA's

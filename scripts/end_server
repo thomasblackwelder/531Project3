@@ -1,0 +1,8 @@
+#!/bin/bash
+isExistApp = `pgrep node`
+if [[ -n  $isExistApp ]]; then
+    pgrep -f node > stop
+    sed -i 's/^/kill /' stop
+    chmod 777 stop
+    ./stop   
+fi
