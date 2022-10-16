@@ -9,8 +9,8 @@ terraform {
 
 provider "aws" {
   region     = "us-west-2"
-  access_key = "Change Me"
-  secret_key = "Change Me"
+  access_key = "Change Me" //Dont ever commit your credentials
+  secret_key = "Change Me" //Dont ever commit your credentials
 }
 
 module "group_project_one" {
