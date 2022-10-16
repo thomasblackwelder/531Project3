@@ -1,5 +1,5 @@
 # Movies IaC - AWS
-## Web app for displaying various movies. Please Known Issues / Future Improvements section first. 
+## Web app for displaying various movies.
 This is a web application that provides users an interactive interface to explore different movies. Users can sort movies saved to the database based on their parental rating. 
 
 ## Visual
@@ -50,10 +50,11 @@ Terraform:
 - Query aws to retrieve the parameters needed for the database username, and password from the parameter store. Retrieve the host through env variables. 
      
 ## Sponser poor college students?
-- [Thomas Blackwelder]()
+- [Thomas Blackwelder](https://venmo.com/code?user_id=1922210247737344876&created=1665893449.9037209)
 - [Caleb Siebach](https://venmo.com/code?user_id=2946059366039552553&created=1665890984)
-- [Cole Smith]()
-- [Kirsten Smurthwaite](https://account.venmo.com/u/Kirsten-Smurthwaite)
+- [Cole Smith](https://venmo.com/code?user_id=1813591086858240869&created=1665893522.538416)
+- [Kirsten Smurthwaite]()
+
 
 ## Acknowledge 
 Too many youtube tutorials to count, and our great Professor Kettles, and TA's
