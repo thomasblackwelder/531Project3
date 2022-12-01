@@ -8,17 +8,17 @@ const knex = require("knex")({
     client: "mysql2",
     // client: "mysql",
     connection: {
-        // host:"movies-db.cluster-c8iotd3zbrrr.us-east-2.rds.amazonaws.com",
-        host:"localhost",
-        user: "root",
-        password: "changeme",
-        database:"movies",
+        host:"http://adoptiondatabase-instance-1.caayec2cyrg1.us-east-1.rds.amazonaws.com/",
+        // host:"localhost",
+        user: "admin",
+        password: "adminadmin",
+        database:"adoptiondatabase",
         port: 3306,},});
 
 app.get("/",(req,res) => {
-    knex.select().from("movies")
+    knex.select().from("adoptiondatabase")
     .then((result) => {
         console.log(result);
-        res.render("index", {aMovieList: result});});});
+        res.render("index", {aAdoptionList: result});});});
 app.listen(3000);
 console.log("listening on port 3000")
